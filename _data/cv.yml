@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Anna Matuszyńska
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: Polish, English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Dr. rer. nat.
+      institution: Heinrich-Heine University Düsseldorf, Germany
+      year: 2016
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc.
+      institution: University of Aberdeen, United Kingdom
+      year: 2013
+      description:
+        - Description 1.
+        - Description 2.
+    - title: MSc. Eng.
+      institution: Gdansk University of Technology, Poland
+      year: 2011
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +37,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Professor of Computational Life Science
+      institution: RWTH Aachen University, Germany
+      year: 2021 - now
       description:
         - Description 1.
         - Description 2.
@@ -41,20 +47,20 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Postdoctoral researcher
+      institution: Heinrich-Heine University Düsseldorf, Germany
+      year: 2018 - 2021
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
+    - title: Visiting Researcher
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+      year: 2015
 
-    - title: Professor of Theoretical Physics
+    - title: Visiting Researcher
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+      year: 2015
       description:
 
     - title: Associate Professor of Theoretical Physics
